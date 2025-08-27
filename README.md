@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Simple Java Calculator
 
 A console-based calculator written in Java.
@@ -15,7 +15,3 @@ A console-based calculator written in Java.
 ## Author
 Pratham (GitHub: @prthmcodes)
                 (Instagram: @notprthm)
-=======
-# JavaCalculator
-Console-based Java calculator with basic arithmetic operations
->>>>>>> 206ad9c40584c13d14c2577328f57ba7f7fe6271
