@@ -18,3 +18,5 @@ java Calculator
 ## Author
 Pratham (GitHub: @prthmcodes)
                 (Instagram: @notprthm)
+## Screenshot
+![Calculator Screenshot](testing%20screenshot/test1.png)
